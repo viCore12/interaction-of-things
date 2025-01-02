@@ -1,0 +1,12 @@
+[submodule "hicodet"]
+	path = hicodet
+	url = https://github.com/fredzzhang/hicodet
+	branch = class
+[submodule "vcoco"]
+	path = vcoco
+	url = https://github.com/fredzzhang/vcoco
+	branch = main
+[submodule "detr"]
+    path = detr
+    url = https://github.com/fredzzhang/detr.git
+    branch = intr

@@ -1,0 +1,7 @@
+boxmot
+torch
+torchvision
+tqdm
+opencv-python
+numpy
+scipy
